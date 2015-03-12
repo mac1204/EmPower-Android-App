@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/health" >
+    
+    <ScrollView 
+    android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+        
+        <TextView
+            android:id="@+id/textView_personal_edit_1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Name:"
+            android:textStyle="bold" />
+        
+        <EditText
+        android:id="@+id/textView_personal_edit_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_1"
+        android:text="" />
+        
+        <TextView
+        android:id="@+id/textView_personal_edit_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_2"
+        android:text="Age:"
+        android:textStyle="bold" />
+        
+        <EditText
+        android:id="@+id/textView_personal_edit_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_3"
+        android:text="" />
+
+        
+        <TextView
+        android:id="@+id/textView_personal_edit_5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_4"
+        android:text="Disease:" 
+        android:textStyle="bold" />
+        
+        <EditText
+        android:id="@+id/textView_personal_edit_6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_5"
+        android:text="" />
+        
+        
+        <TextView
+        android:id="@+id/textView_personal_edit_7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_6"
+        android:text="Doctor Number:"
+        android:textStyle="bold" />
+        
+        <EditText
+        android:id="@+id/textView_personal_edit_8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_7"
+        android:text="" />
+        
+        
+        <TextView
+        android:id="@+id/textView_personal_edit_9"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_8"
+        android:text="First Aid:"
+        android:textStyle="bold" />
+        
+        
+        <EditText
+        android:id="@+id/textView_personal_edit_10"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_9"
+        android:text="" />
+        
+        <Button 
+         android:id="@+id/button_personal_edit_1" 
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView_personal_10"
+        android:text="OK" />
+
+    
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmPower</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="s1_1">Nutrition and early child development.</string>
+    <string name="s1_2">The main objective of this programme is to improve the quality of work of ICDS functionaries. Under this programme along with training of ICDS functionaries and other training programmes are also conducted for PRIs extra.</string>
+    <string name="s1_3">Health activist(s) in the community who will create awareness on health and its social determinants and mobilize the community towards local health planning and increased utilization and accountability of the existing health services.</string>
+    <string name="s1_4">Disease prevention,reduction of infant and child mortality.</string>
+    <string name="s1_5">Launched by Govt of Odisha to focus high infant mortality and morbidity adn to promote institutional delivery.</string>
+    <string name="s1_6">Supplementary Nutrition is provided to the children in the age group of 0-6 years and pregnant and lactating mothers.</string>
+    <string name="s2_1">Health activist(s) in the community who will create awareness on health and its social determinants and mobilize the community towards local health planning and increased utilization and accountability of the existing health services.</string>
+    <string name="s2_2"></string>
+    <string name="s2_3">One-time cash incentive to pregnant women for institutional/home births through skilled assistance.</string>
+    <string name="s2_4">Supplementary Nutrition is provided to the children in the age group of 0-6 years and pregnant and lactating mothers.</string>
+    <string name="s3_1">Tuberculosis control initiative.</string>
+    <string name="s3_2"></string>
+    <string name="s4_1"></string>
+    <string name="s5_1">Recognizing the diversity with regard to public health infrastructure, socio economic conditions and the administrative network, the health insurance scheme aims to facilitate launching of health insurance projects in all the States in a phased manner for BPL workers.</string>
+    <string name="s6_1"></string>
+    <string name="s6_2">Cigarettes and Other Tobacco Products (Packaging and Labelling) Amendment Rules introduced in 2012.</string>
+    <string name="s7_1"></string>
+    <string name="s7_2"></string>
+    <string name="s8_1">To prevent grant of "bed"patents on traditional knowledge and biopiracy, further the digital library is being developed on codified traditional knowledge on Indian systems of medicines such as Ayurveda, Unani, Siddha And Yoga.</string>
+    <string name="s9_1">To reduce the backlog of blindness through identification and treatment of blind. To develop Eye Care facilities in every district.</string>
+    <string name="s10_1">The National Cancer Control Programme has established Regional Cancer Centres (RCCs) to improve availability of cancer treatment facilitiesand to reduce the geographical gap in the availability of cancer.</string>
+    <string name="s11_1">http://mohfw-h1n1.nic.in/documents/PDF/CDAlertSwine.pdf</string>
+    <string name="s11_2">http://mohfw-h1n1.nic.in/documents/PDF/dos n donts.pdf</string>
+    <string name="s12_1">The objective of the scheme is to create a family benefit fund and make it available to families of municipal employees.</string>
+    <string name="s13_1">Free medical checkup and free medicine is provided to Pahariya victims in Jharkhand.</string>
+    <string name="s13_2">It envisages conducting of periodical health check up programme of such workers including distribution of free medicines to them, with emphasis on occupational diseases.</string>
+    <string name="s14_1">This is a State Government Scheme which is aimed at providing free education to visually impaired, hearing impaired and mentally challenged children in Special Schools having specially trained teachers through Non Government Organizations.</string>
+
+</resources>

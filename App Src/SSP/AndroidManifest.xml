@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ssp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ssp.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_1"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_2"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_2" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_3"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_3" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_4"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_4" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_5"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_5" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_6"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_6" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_7"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_7" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_8"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_8" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_9"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_9" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_10"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_10" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_11"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_12"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_12" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_13"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_13" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ssp.button_14"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.BUTTON_14" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.ssp.personal"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.PERSONAL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.example.ssp.personal_edit"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.ssp.PERSONAL_EDIT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+    </application>
+
+</manifest>
